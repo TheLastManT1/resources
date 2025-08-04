@@ -1,4 +1,4 @@
-# HTC ReManila Patching Guides
+# HTC Remanila Patching Guides
 
 ## Overview
 
