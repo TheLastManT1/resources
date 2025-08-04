@@ -8,8 +8,8 @@
 
 ### Required tools
 - Registry Editor (pick whichever is more convenient)
-    - On device: [TRE](https://archive.org/download/tucows_32381_Tascal_RegEdit/reg050m.zip)
-    - Via ActiveSync: [CeRegEditor](https://archive.org/download/ce-reg-edit-setup-0.0.5.0/CeRegEdit_Setup_0.0.5.0.exe)
+    - On device: [TRE](https://github.com/htc-remanila/resources/raw/refs/heads/main/files/TRE.zip)
+    - Via ActiveSync: [CeRegEditor](https://github.com/htc-remanila/resources/raw/refs/heads/main/files/CeRegEdit.exe)
 
 ### Steps
 
