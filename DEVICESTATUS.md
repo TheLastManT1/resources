@@ -12,7 +12,7 @@
   </tr>
   <tr>
     <td style="background-color:darkcyan; text-align: center;">R</td>
-    <td>Requires Custom ROM</td>
+    <td>Requires deep device modification</td>
   </tr>
   <tr>
     <td style="background-color:blue; text-align: center;">W</td>
