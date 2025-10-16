@@ -104,7 +104,7 @@
     <td style="background-color:red; text-align: center;">N</td>
   </tr>
   <tr>
-    <td><a href="devices/photon.md">Sence3x Devices</a></td>
+    <td><a href="devices/sence3x.md">Sence3x Devices</a></td>
     <td>----</td>
     <td>No</td>
     <td style="background-color:green; text-align: center;">Y</td>
