@@ -103,6 +103,16 @@
     <td style="background-color:red; text-align: center;">N</td>
     <td style="background-color:red; text-align: center;">N</td>
   </tr>
+  <tr>
+    <td><a href="devices/photon.md">Sence3x Devices</a></td>
+    <td>----</td>
+    <td>No</td>
+    <td style="background-color:green; text-align: center;">Y</td>
+    <td style="background-color:green; text-align: center;">N</td>
+    <td style="background-color:blue; text-align: center;">N</td>
+    <td style="background-color:red; text-align: center;">N</td>
+    <td style="background-color:red; text-align: center;">N</td>
+  </tr>
 </tbody>
 </table>
 
